@@ -6,7 +6,7 @@
 
 ## ᑭᗩTᕼᑌᗰ-𝔟o𝔱 ♚  Version 12.0
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨+Pathum+Official+Whatsapp +BOT.;𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈:+Pathum+Official;ℂ𝕣𝕖𝕒𝕥𝕖𝕕+𝕓𝕪:+Pathum+Apekshana;𝐌𝐑:+ᑭᗩTᕼᑌᗰ-𝔟o𝔱 ♚)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨+Pathum+Official+Whatsapp+BOT.;𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈:+Pathum+Official;ℂ𝕣𝕖𝕒𝕥𝕖𝕕+𝕓𝕪:+Pathum+Apekshana;𝐌𝐑:+ᑭᗩTᕼᑌᗰ-𝔟o𝔱♚)](https://git.io/typing-svg)
 
 ## LATEST VERSION (2022-09-25) ([Whatsapp can't see messages]) [Fixed ]
 
