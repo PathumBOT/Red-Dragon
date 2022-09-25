@@ -6,7 +6,7 @@
 
 ## ᑭᗩTᕼᑌᗰ-𝔟o𝔱 ♚  Version 12.0
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨+Pathum+Official+Whatsapp +BOT.;𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈:+Pathum+Official;ℂ𝕣𝕖𝕒𝕥𝕖𝕕+𝕓𝕪:+Pathum+Apekshana;𝐌𝐑:+ᑭᗩTᕼᑌᗰ-𝔟o𝔱 ♚;)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=(𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨+Pathum+Official+Whatsapp +BOT.;𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈:+Pathum+Official;ℂ𝕣𝕖𝕒𝕥𝕖𝕕+𝕓𝕪:+Pathum+Apekshana;𝐌𝐑:+ᑭᗩTᕼᑌᗰ-𝔟o𝔱 ♚;)](https://git.io/typing-svg)
 
 LATEST VERSION (2022-09-25) ([Whatsapp can't see messages]) [Fixed ]
 
@@ -32,11 +32,8 @@ LATEST VERSION (2022-09-25) ([Whatsapp can't see messages]) [Fixed ]
 
 
 
-<p align="center">
 
-<img src="https://i.ibb.co/6tCrPD6/image-downloader-1654443961039.gif" alt="nz" width="350"/>
 
-</p>
 
 </details>
 
@@ -61,16 +58,10 @@ LATEST VERSION (2022-09-25) ([Whatsapp can't see messages]) [Fixed ]
 
 >ඔබ වට්සැප් මොඩ් භාවිතා කරනවා නම් Foud mod හෝ වෙනත් පරණ Base සහිත වට්සැප් මගින් ඔබේ ගිනුම තාවකාලිකව Ban විය හැකියි.
 
-Recommended WhatsApp👇
->Normal WhatsApp [DOWNLOAD](https://play.google.com/store/apps/details?id=com.whatsapp)
->YMWhatsApp Mod [DOWNLOAD](https://ymwhatsapp.com/ymwa/)
 
-</b>
-</details>
+
 
 ##
-
-> [SUPPORT GROUP](https://chat.whatsapp.com/I1v5ZTJeFjZ9x5LzG3qPHU)
 
 <b><details><summary>𝗛𝗼𝘄 𝗧𝗼 𝗠𝗮𝗸𝗲?</summary>
 
@@ -94,16 +85,12 @@ Recommended WhatsApp👇
 
 ## ```Connect With Me```
 <p align="center">
-<a href="https://wa.me/380944814219"><img src="https://www.svgrepo.com/show/122874/whatsapp.svg" width="100"/>
+<a href="https://wa.me/+94787815824"><img src="https://www.svgrepo.com/show/122874/whatsapp.svg" width="100"/>
 </p>
 
-</details>
 
-<p align="center">
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="nz" width="700"/>
-</p>
 
-## 𝐌𝐑: ☬𝔻𝔸ℝ𝕂༒ℕ𝕀𝕋ℝ𝕆࿐
+
 
 
 
