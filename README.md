@@ -1,22 +1,20 @@
 <p align="center">
 <img src="./Android/database/K.Prabhasha.gif" alt="Loading..." width="320"/>
 <p align="center">
-<img src="https://i.ibb.co/CwffZ61/20220605-104552.jpg" alt="nz" width="350"/>
+<img src="https://scontent.fcmb4-2.fna.fbcdn.net/v/t39.30808-6/300879896_1191469391636894_6039112901209950442_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=67k5n-e_8FMAX_1Qg03&tn=msGj56VmcAptm_e2&_nc_ht=scontent.fcmb4-2.fna&oh=00_AT_58NA461miSiJmdTr8A47eXtHV8FsPhviYwFg3dEbbcg&oe=6332329C" alt="nz" width="350"/>
 </p>
 
-## 𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉 -𝗕𝗢𝗧࿐   Version 12.0
+## ᑭᗩTᕼᑌᗰ-𝔟o𝔱 ♚  Version 12.0
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨+𝙍𝙀𝘿╺+𝘿𝙍𝘼𝙂𝙊𝙉+-+𝗕𝗢𝗧.;𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈:+𝚁𝙴𝙳+𝙳𝚁𝙰𝙶𝙾𝙽+𝚃𝙴𝙰𝙼;ℂ𝕣𝕖𝕒𝕥𝕖𝕕+𝕓𝕪:+𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖;𝐌𝐑:+☬𝔻𝔸ℝ𝕂༒ℕ𝕀𝕋ℝ𝕆࿐;💕ඉතිං+කොහොමද🙃;😁මොකද+කරන්නෙ🌹)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨+Pathum+Official+Whatsapp +BOT.;𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈:+Pathum+Official;ℂ𝕣𝕖𝕒𝕥𝕖𝕕+𝕓𝕪:+Pathum+Apekshana;𝐌𝐑:+ᑭᗩTᕼᑌᗰ-𝔟o𝔱 ♚;)](https://git.io/typing-svg)
 
-LATEST VERSION (2022-08-20) ([Whatsapp can't see messages]) [Fixed ]
+LATEST VERSION (2022-09-25) ([Whatsapp can't see messages]) [Fixed ]
 
-> [🔄Please Follow Me🤭](https://github.com/prabhasha2006)
+> [🔄Please Follow Me🤭](https://www.youtube.com/channel/UCiJU8e5rOipJiic-iVx78ow)
 
 <img src="./Android/database/K.Prabhasha-1.gif" alt="Loading..." width="310"/>
 
-> Image Designed By  ==(Dineth Indusara)== RED DRAGON TEAM
 
-> Created By ==(Kumuthu Prabhasha)== RED DRAGON TEAM
 
 
 <p align="center">
@@ -28,11 +26,10 @@ LATEST VERSION (2022-08-20) ([Whatsapp can't see messages]) [Fixed ]
 
 ## 🙂➾ [Scan QR In Your Whatsapp From Here](https://replit.com/@KumuthuPrabhash/Red-Dragon-Bot-Qr-Code?v=1)
  
-## 🙂➾ [Fork This Repo By Clicking Here](https://github.com/prabhasha2006/Red-Dragon/fork)
+## 🙂➾ [Fork This Repo By Clicking Here](https://wa.me/+94787815824)
  
 ## 🙂➾ [Then Deploy The Bot From Here](https://heroku.com/deploy)
 
-## 🙂➾ [Red Dragon Bot Official Website Here](https://sites.google.com/view/red-dragon-bot/home)
 
 
 <p align="center">
@@ -137,8 +134,4 @@ Recommended WhatsApp👇
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 </div>
 
-## Thanks To
-* [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
-* [`Alien-Alfa`](https://github.com/Alien-Alfa)
-* [`DGXeon`](https://github.com/DGXeon)
-* [`AflahXrd`](https://github.com/nexusNw)
+## Thanks 
