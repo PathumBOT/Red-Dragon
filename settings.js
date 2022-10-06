@@ -37,7 +37,7 @@ global.socialm = "insta : Pathum_Apekshana" // github or insta name
 global.location = "India, Mizoram, Aizawl" // location
 
 //bot body 
-global.alivepic = "" // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
+global.alivepic = "https://yt3.ggpht.com/gZdqOm3KD3GpRnI2-3UzAGg17pXoupno8hEVcL9PCb7dLclZn7PoSK0xVwkaoKCKNzD06jIA2A=s100-c-k-c0x00ffffff-no-rjcbfe&_nc_ohc=67k5n-e_8FMAX_1Qg03&tn=msGj56VmcAptm_e2&_nc_ht=scontent.fcmb4-2.fna&oh=00_AT_58NA461miSiJmdTr8A47eXtHV8FsPhviYwFg3dEbbcg&oe=6332329C" // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
 
 global.dragonchat = "false"  // chat bot  "true" / "false" (200 auto replies in this)
 global.callblock = "false" // call block "true" / "false" ("true"  to block callers)
