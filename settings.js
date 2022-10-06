@@ -37,7 +37,7 @@ global.socialm = "insta : Pathum_Apekshana" // github or insta name
 global.location = "India, Mizoram, Aizawl" // location
 
 //bot body 
-global.alivepic = `https://scontent.fcmb4-2.fna.fbcdn.net/v/t39.30808-6/300879896_1191469391636894_6039112901209950442_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=67k5n-e_8FMAX_1Qg03&tn=msGj56VmcAptm_e2&_nc_ht=scontent.fcmb4-2.fna&oh=00_AT_58NA461miSiJmdTr8A47eXtHV8FsPhviYwFg3dEbbcg&oe=6332329C` // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
+global.alivepic = "" // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
 
 global.dragonchat = "false"  // chat bot  "true" / "false" (200 auto replies in this)
 global.callblock = "false" // call block "true" / "false" ("true"  to block callers)
@@ -50,11 +50,11 @@ global.welcom_msg = "true" // Welcome / Goodbye   [true/false]
 
 global.owner = ['94787815824']
 global.ownertag = '94787815824' //your tag number
-global.botname = 'ᑭᗩTᕼᑌᗰ-𝔟o𝔱 ♚' //ur bot name
-global.packname = "Pathum-Offiacil-WA-BOT" // sticker packname
-global.author = "ᑭᗩTᕼᑌᗰ-𝔟o𝔱 ♚" // sticker author
-global.dragonemoji = '🍃♥️' // Menu emoji
-global.footer = '[ ᑭᗩTᕼᑌᗰ-𝔟o𝔱 ♚ ]' //
+global.botname = '℘athum Official 🧑🏻‍🔧🍃' //ur bot name
+global.packname = "WA-BOT" // sticker packname
+global.author = "℘athum Official 🧑🏻‍🔧🍃" // sticker author
+global.dragonemoji = '🧑🏻‍🔧🍃❤' // Menu emoji
+global.footer = '[ ℘athum Official 🧑🏻‍🔧🍃 ]' //
 
 //database
 global.premium = ['94787815824'] //ur premium numbers
