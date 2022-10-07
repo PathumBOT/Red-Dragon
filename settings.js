@@ -37,7 +37,7 @@ global.socialm = "insta : Pathum_Apekshana" // github or insta name
 global.location = "India, Mizoram, Aizawl" // location
 
 //bot body 
-global.alivepic = "https://yt3.ggpht.com/gZdqOm3KD3GpRnI2-3UzAGg17pXoupno8hEVcL9PCb7dLclZn7PoSK0xVwkaoKCKNzD06jIA2A=s100-c-k-c0x00ffffff-no-rjcbfe&_nc_ohc=67k5n-e_8FMAX_1Qg03&tn=msGj56VmcAptm_e2&_nc_ht=scontent.fcmb4-2.fna&oh=00_AT_58NA461miSiJmdTr8A47eXtHV8FsPhviYwFg3dEbbcg&oe=6332329C" // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
+global.alivepic = "https://telegra.ph/file/c4c26847ccdb90e06a743.jpg" // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
 
 global.dragonchat = "false"  // chat bot  "true" / "false" (200 auto replies in this)
 global.callblock = "false" // call block "true" / "false" ("true"  to block callers)
@@ -45,13 +45,13 @@ global.antibad = "false" // To remove bad word senders
 global.antispam = "true" // To remove or block spammers
 global.antilink = "false" // To remove group link sharing peoples
 global.upsongvoice = "false" // true/false \\ bot can upload song as voice note (it use your data and storage bacause auto download) you can put "false" (anyone can't get songs as voice note / your data is not wasted)
-global.welcom_msg = "true" // Welcome / Goodbye   [true/false]
+global.welcom_msg = "false" // Welcome / Goodbye   [true/false]
 
 
 global.owner = ['94787815824']
 global.ownertag = '94787815824' //your tag number
 global.botname = '℘athum Official 🧑🏻‍🔧🍃' //ur bot name
-global.packname = "WA-BOT" // sticker packname
+global.packname = "℘athum Official -BOT" // sticker packname
 global.author = "℘athum Official 🧑🏻‍🔧🍃" // sticker author
 global.dragonemoji = '🧑🏻‍🔧🍃❤' // Menu emoji
 global.footer = '[ ℘athum Official 🧑🏻‍🔧🍃 ]' //
