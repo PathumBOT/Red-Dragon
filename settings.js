@@ -12,7 +12,7 @@ global.APIKeys = {
 }
 
 global.alivemsg = `📤I am alive now😇
-🤷‍♀️How can I help you?😉❤️🍃
+🤷‍♀️How can I help you?😉
 ` //Costomize Alive Message (type your message in `` )
 
 
@@ -53,7 +53,7 @@ global.ownertag = '94787815824' //your tag number
 global.botname = '℘athum Official 🧑🏻‍🔧🍃' //ur bot name
 global.packname = "℘athum Official -BOT" // sticker packname
 global.author = "℘athum Official 🧑🏻‍🔧🍃" // sticker author
-global.dragonemoji = '🧑🏻‍🔧🍃❤' // Menu emoji
+global.dragonemoji = '🧑🏻‍🔧' // Menu emoji
 global.footer = '[ ℘athum Official 🧑🏻‍🔧🍃 ]' //
 
 //database
